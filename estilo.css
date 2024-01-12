@@ -1,0 +1,63 @@
+  /* Estilos CSS para personalizar la apariencia de tu pÃ¡gina */
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+/* Estilos para el encabezado */
+header {
+    background-color: #6E77A9;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+/* Estilos para las secciones */
+section {
+    padding: 40px;
+    text-align: center;
+}
+* Estilos para los tÃ­tulos de secciÃ³n */
+section h2 {
+    font-size: 24px;
+    color: #8b2ce4;
+}
+/* Estilos para el contenido de secciÃ³n */
+section p {
+    font-size: 16px;
+    color: #6d2be7
+}
+/* Estilos para el pie de pÃ¡gina */
+footer {
+    background-color: #300881;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+.image-container {
+        width:  300px;
+        height: 300px;
+        border-radius: 100%;
+        overflow: hidden;
+        margin: 0 auto;
+    }
+.rounded-image {
+        display: block;
+        width: 100%;
+        height: auto;
+        /* Estilos para los Ã­conos de redes sociales */
+    .social-icons {
+        list-style: none;
+        padding: 0;
+    }
+    .social-icons li {
+        display: inline;
+        margin-right:150px;
+    }
+    .social-icons a {
+        text-decoration: none;
+    }
+    .social-icons i {
+        font-size: 150px;
+        color: #bddbb1; /* Color de los Ã­conos */
+    }
